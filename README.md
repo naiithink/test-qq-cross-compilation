@@ -8,4 +8,4 @@
 
 ---
 
-	clang -target 'x86_64-unknown-none-gnu' hello.c -o hello
+	clang -target 'x86_64-pc-linux-gnu' hello.c -o hello
